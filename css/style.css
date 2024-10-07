@@ -1,0 +1,22 @@
+input {
+  margin-bottom: 16px;
+}
+
+table {
+  border-spacing: 10px;
+}
+
+td {
+  width: 20px;
+  padding: 10px;
+  text-align: center;
+}
+
+td {
+  background-color: lightyellow;
+  border-color: black;
+  border-style: solid;
+  border-radius: 10px;
+  border-width: 1px;
+  font-size: large;
+}
